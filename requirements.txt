@@ -1,0 +1,7 @@
+tensorflow>=2.11
+torch
+numpy
+pillow
+opencv-python
+matplotlib
+tqdm
